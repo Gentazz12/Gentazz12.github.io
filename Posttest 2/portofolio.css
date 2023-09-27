@@ -23,7 +23,7 @@ body {
     color: white;
   }
   
-  /* Utilities */
+  
   .auto-grid {
     display: grid;
     grid-template-columns: repeat(
@@ -39,12 +39,12 @@ body {
     
   }
   
-  /* Composition */
+  
   .gambargfx {
     --flow-space: 2em;
   }
   
-  /* Blocks */
+  
   .portofolio {
     border-radius: 3%;
     display: flex;
