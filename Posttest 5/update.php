@@ -9,10 +9,6 @@
 </head>
 
 <body>
-    <nav>
-        <!-- Sama seperti yang Anda berikan -->
-    </nav>
-
     <div class="update-form">
         <h1>Update Data Pelanggan</h1>
         <?php
